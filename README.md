@@ -1,9 +1,18 @@
-This repository is my playground for learning DevOps tools and git.
+# DevOps Lab Platform
 
-Topics I will explore:
-- Git
+This repository contains my DevOps learning project.
+
+Services:
+- URL Shortener
+- QR Code Generator
+
+Technologies:
+- Python
 - Docker
-- CI/CD
-- Kubernetes
-- Terraform
+- GitHub Actions
 - AWS
+
+DevOps Features:
+- CI pipelines
+- containerization
+- automated deployment
